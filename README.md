@@ -31,7 +31,7 @@
    ---make responsive hamburger 
  
 
- GitHub Pages
+# GitHub Pages
 Note: this feature is available with react-scripts@0.2.0 and higher.
 
 Step 1: Add homepage to package.json
