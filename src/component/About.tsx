@@ -69,7 +69,7 @@ const About = () => {
                   Chandigarh, India-140301
                 </span>
               </h2>
-              <div>
+              <div className="w-32">
                 <a
                   href="https://drive.google.com/file/d/19laaEKq-KKeOAsYbiq08qPejobCTFREg/view"
                   target="_blank"
