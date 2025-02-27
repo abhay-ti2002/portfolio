@@ -3,9 +3,9 @@ import Tilt from "react-parallax-tilt";
 const SkillsIcon = () => {
   return (
     <div className="flex flex-col justify-center min-h-full items-center">
-      <div className="laptop:w-3/4">
+      <div className="laptop:w-[73%]">
         <div>
-          <ul className=" flex flex-wrap laptop:justify-items-center  laptop:ml-0">
+          <ul className=" flex flex-wrap laptop:justify-items-center laptop:ml-0">
             <li className="bg-stone-100 box-border w-10 h-10   laptop:w-24 laptop:h-24 ml-16 mb-5 flex flex-col justify-center min-h-full items-center rounded-md shadow-md shadow-stone-400">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

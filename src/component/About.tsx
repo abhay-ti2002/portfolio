@@ -71,7 +71,7 @@ const About = () => {
               </h2>
               <div>
                 <a
-                  href="https://drive.google.com/file/d/1dmUgmgyIIojMHblIoR8JE9-zGJ9PK2y8/view"
+                  href="https://drive.google.com/file/d/19laaEKq-KKeOAsYbiq08qPejobCTFREg/view"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
